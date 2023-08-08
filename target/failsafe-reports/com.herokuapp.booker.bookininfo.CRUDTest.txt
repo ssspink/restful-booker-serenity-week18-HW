@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.herokuapp.booker.bookininfo.CRUDTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 24.476 sec - in com.herokuapp.booker.bookininfo.CRUDTest

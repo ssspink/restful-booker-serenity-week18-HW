@@ -1,0 +1,9 @@
+com\herokuapp\booker\restfulinfo\GetBookingSteps.class
+com\herokuapp\booker\model\AuthorisationPojo.class
+com\herokuapp\booker\constants\Path.class
+com\herokuapp\booker\restfulinfo\CreateBookingSteps.class
+com\herokuapp\booker\constants\EndPoints.class
+com\herokuapp\booker\model\RestFulBookingPojo$BookingDates.class
+com\herokuapp\booker\utils\TestUtils.class
+com\herokuapp\booker\utils\PropertyReader.class
+com\herokuapp\booker\model\RestFulBookingPojo.class
